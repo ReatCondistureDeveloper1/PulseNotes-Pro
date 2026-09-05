@@ -1,6 +1,6 @@
 # 📝 PulseNotes Pro
 
-**Pulse Notes Pro** is a modern, sleek, and high-performance note-taking application designed for Android. Inspired by Apple's clean design language, it offers a seamless writing experience with auto-draft protection, haptic feedback, and vibrant neon aesthetic categories.
+**PulseNotes Pro** is a modern, sleek, and high-performance note-taking application designed for Android. Inspired by Apple's clean design language, it offers a seamless writing experience with auto-draft protection, haptic feedback, and vibrant neon aesthetic categories.
 
 ---
 
@@ -26,6 +26,6 @@
 
 1. Clone or download this repository:
    ```bash
-   git clone [https://github.com/ReatCondistureDeveloper1/Pulse-Notes-Pro.git](https://github.com/ReatCondistureDeveloper1/Pulse-Notes-Pro.git)
+   git clone [https://github.com/ReatCondistureDeveloper1/PulseNotes-Pro.git](https://github.com/ReatCondistureDeveloper1/PulseNotes-Pro.git)
    
 👨‍💻 Developed by Reat Condisture © 2026
